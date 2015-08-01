@@ -3,7 +3,7 @@
     <head>
         <title>Vigil</title>
 
-        <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+        <link href='//fonts.googleapis.com/css?family=Oswald:700|Merriweather' rel='stylesheet' type='text/css'>
 
         <style>
             html, body {
@@ -16,7 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Lato';
+                font-family: 'Merriweather', serif;
             }
 
             .container {
@@ -31,7 +31,10 @@
             }
 
             .title {
+                font-family: 'Oswald', sans-serif;
                 font-size: 96px;
+                text-transform: uppercase;
+                background: #FFD300;
             }
         </style>
     </head>
@@ -39,6 +42,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Vigil</div>
+                <p>Swarming emergency response.</p>
             </div>
         </div>
     </body>
