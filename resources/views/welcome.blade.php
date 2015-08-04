@@ -8,6 +8,7 @@
         <style>
             html, body {
                 height: 100%;
+                color: #353535;
             }
 
             body {
@@ -34,7 +35,7 @@
                 font-family: 'Oswald', sans-serif;
                 font-size: 96px;
                 text-transform: uppercase;
-                background: #FFD300;
+                background: #FFE155;
             }
         </style>
     </head>
